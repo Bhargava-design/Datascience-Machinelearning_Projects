@@ -12,7 +12,7 @@ About :
 
 --4--> Fish_weight_prediction
 
-and more...
+and so on
  
 [ This Project source code is directed by YBI Foundation as a part of Internship called "Data Science and MAchine LEarning Internship " . These Projects are doneas per the guide course ]
 
